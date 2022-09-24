@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🔭 I’m a final year engineering student
-- 🌱 I’m passionate about coding
-- 👯 I’m interested in devloping apps and websites
+### Hello! I am Aishvarya!
+- 🔭 A final year engineering student
+- 🌱 Passionate about coding
+- 👯 Interested in devloping apps and websites
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
