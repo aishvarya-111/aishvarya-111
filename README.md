@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Bonjour!&fontSize=45&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?text=Bonjour!&fontSize=45&type=waving&color=gradient&height=100&fontColor=f7f5f5)
 ### Hello! I am Aishvarya!
 - 🔭 A final year engineering student
 - 🌱 Passionate about coding
